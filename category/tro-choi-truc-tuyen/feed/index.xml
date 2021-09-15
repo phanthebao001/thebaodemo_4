@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Trò chơi trực tuyến &#8211; My WordPress</title>
-	<atom:link href="http://localhost/project/category/tro-choi-truc-tuyen/feed/" rel="self" type="application/rss+xml" />
+	<title>Trò chơi trực tuyến &#8211; BaoBlog</title>
+	<atom:link href="http://localhost/project/category/tro-choi-truc-tuyen/feed" rel="self" type="application/rss+xml" />
 	<link>https://phanthebao1234.github.io/thebao_demo4</link>
 	<description>Đây là trang WordPress của tôi</description>
 	<lastBuildDate>Tue, 07 Sep 2021 08:18:24 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Fortnite Battle Royale</title>
-		<link>https://phanthebao1234.github.io/thebao_demo4/2021/09/07/fortnite-battle-royale/</link>
-					<comments>https://phanthebao1234.github.io/thebao_demo4/2021/09/07/fortnite-battle-royale/#respond</comments>
+		<link>https://phanthebao1234.github.io/thebao_demo4/fortnite-battle-royale.html</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo4/fortnite-battle-royale.html#respond</comments>
 		
 		<dc:creator><![CDATA[phanthebao]]></dc:creator>
 		<pubDate>Tue, 07 Sep 2021 08:17:40 +0000</pubDate>
@@ -35,15 +35,15 @@
 
 					<description><![CDATA[Fortnite Battle Royale (hay cuộc chiến hoàng tộc [ hay còn được gọi với cái tên là  : battle royale] ) là một trò chơi video trực tuyến battle royale miễn phí được phát triển và phát hành bởi Epic Games. Đây là một trò chơi đồng hành với Fortnite: Save the World, một trò chơi sinh tồn hợp tác với các yếu tố xây dựng. Nó ban đầu được phát hành trong lần truy cập sớm vào ngày 26 tháng 9 năm 2017, dành cho Microsoft Windows, macOS, PlayStation 4 và Xbox One, sau đó là các phiên bản cho iOS, Android và Nintendo Switch vào năm sau.]]></description>
 		
-					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo4/2021/09/07/fortnite-battle-royale/feed/</wfw:commentRss>
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo4/fortnite-battle-royale.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>PlayerUnknown&#8217;s Battlegrounds</title>
-		<link>https://phanthebao1234.github.io/thebao_demo4/2021/09/06/playerunknowns-battlegrounds/</link>
-					<comments>https://phanthebao1234.github.io/thebao_demo4/2021/09/06/playerunknowns-battlegrounds/#respond</comments>
+		<link>https://phanthebao1234.github.io/thebao_demo4/playerunknowns-battlegrounds.html</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo4/playerunknowns-battlegrounds.html#respond</comments>
 		
 		<dc:creator><![CDATA[phanthebao]]></dc:creator>
 		<pubDate>Mon, 06 Sep 2021 09:29:14 +0000</pubDate>
@@ -56,15 +56,15 @@
 
 					<description><![CDATA[PlayerUnknown's Battlegrounds (tạm dịch: Chiến trường của Kẻ Vô Danh; viết tắt: PUBG) là một trò chơi điện tử hành động, sinh tồn, nhiều người chơi trực tuyến do Krafton Inc. (được thành lập dựa trên sự hợp nhất của công ty mẹ Bluehole Studio và công ty con PUBG Corporation[1]) - tập đoàn phát triển game có trụ sở chính được đặt tại thành phố Seongnam, Hàn Quốc thiết kế, phát triển và phát hành.]]></description>
 		
-					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo4/2021/09/06/playerunknowns-battlegrounds/feed/</wfw:commentRss>
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo4/playerunknowns-battlegrounds.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>League of Legend</title>
-		<link>https://phanthebao1234.github.io/thebao_demo4/2021/09/06/league-of-legend/</link>
-					<comments>https://phanthebao1234.github.io/thebao_demo4/2021/09/06/league-of-legend/#respond</comments>
+		<link>https://phanthebao1234.github.io/thebao_demo4/league-of-legend.html</link>
+					<comments>https://phanthebao1234.github.io/thebao_demo4/league-of-legend.html#respond</comments>
 		
 		<dc:creator><![CDATA[phanthebao]]></dc:creator>
 		<pubDate>Mon, 06 Sep 2021 08:49:16 +0000</pubDate>
@@ -76,7 +76,7 @@
 
 					<description><![CDATA[Liên Minh Huyền Thoại (tiếng Anh: League of Legends, viết tắt: LMHT hoặc LoL) là một trò chơi video thể loại đấu trường trận chiến trực tuyến nhiều người chơi (MOBA - Multiplayer Online Battlefield Arena) được Riot Games phát triển và phát hành trên nền tảng Windows và MacOS, lấy cảm hứng từ bản mod Defense of the Ancients cho trò chơi video Warcraft III: Frozen Throne.]]></description>
 		
-					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo4/2021/09/06/league-of-legend/feed/</wfw:commentRss>
+					<wfw:commentRss>https://phanthebao1234.github.io/thebao_demo4/league-of-legend.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
